@@ -1,0 +1,55 @@
+name: contacts_pcsb
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+dependencies:
+  bloc: ^8.1.2
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_svg: ^0.23.0
+  url_launcher:
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/generalimages/hackerman.jpg
+    - assets/generalimages/linkedin.png
+    - assets/generalimages/github.png
+    - assets/generalimages/gmail.jpg
+    - assets/generalimages/gmailnew.png
+    - assets/generalimages/imagegmail.png
+    - assets/generalimages/gmailfinal.png
+    - assets/headimages/Abhishek_Jadhav.jpg
+    - assets/headimages/Aman Mugut.jpg
+    - assets/headimages/Ameya Dhake.jpeg
+    - assets/headimages/Anand Bhalerao.jpg
+    - assets/headimages/Aryan Vora.jpg
+    - assets/headimages/Atharva Nagmoti.jpg
+    - assets/headimages/Chinmay Choudhary.jpg
+    - assets/headimages/Chinmay Choudhary2.jpg
+    - assets/headimages/Dhiraj Thorat.jpg
+    - assets/headimages/Mansi Gundre.png
+    - assets/headimages/Piyush Bora.jpeg
+    - assets/headimages/RAJ SHENDE.jpeg
+    - assets/headimages/Reva Dalal.JPG
+    - assets/headimages/Sahil Kothari.JPG
+    - assets/headimages/Shivakumar Ranade.jpg
+    - assets/headimages/Shreyal Nagle.jpg
+    - assets/headimages/Soham Badjate.jpg
+    - assets/headimages/Tanisha Pareek.jpeg
+    - assets/headimages/Vaibhav Mahajan.jpeg
+    - assets/headimages/Vaishnavi Raut.jpg
+    - assets/headimages/Yash Kulkarni.jpg
+
+
+
+
+
+
